@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Widgets
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
+Multi-functional React web application, with Route and Link navigation, that allows users to search for terms on Wikipedia, set different dropdowns, translate text via Google Translate API, and display an informative accordion. 
 
 ## Available Scripts
 
